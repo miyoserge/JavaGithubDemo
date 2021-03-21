@@ -16,7 +16,7 @@ public class JavaGithubDemo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hallo Github") ;
+        System.out.println("Ich will hier testen ob die Einstellung Funktioniert oder nicht") ;
     }
     
 }
